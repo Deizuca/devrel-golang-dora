@@ -1,0 +1,2 @@
+export APP_NAME=goGin
+export NEW_RELIC_LICENSE_KEY=<b46f9ceef57907f650310effc4ae5c5dFFFFNRAL>
